@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Icon=pcbcalculator
+Type=Application
+Categories=Science;Electronics;
+Exec=pcb_calculator
+Name=KiCad PCB Calculator
+GenericName=PCB Calculator
+Comment=Calculator for various electronics-related computations
